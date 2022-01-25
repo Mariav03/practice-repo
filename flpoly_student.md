@@ -1,10 +1,10 @@
-## First Name Last Name
+## Maria Valencia
 
-### Term Year 
+### Spring 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- course .
 
 - Course 2
 
@@ -16,7 +16,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Thin
 
 - Thing 2
 
@@ -24,4 +24,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/18
