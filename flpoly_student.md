@@ -4,23 +4,25 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- course .
+- COP 2073  Intro to Data Science
 
-- Course 2
+- BUL 2241  Law, Public Policy, Negotiation, and Business
 
-- Course 3
+- FIN 2001  Introduction to Business Finance
 
-- Course 4
+- ENT 2112  Entrepreneurial Opportunity Analysis
+
+- MAC 2311  Analytic Geometry and Calculus
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thin
+- Cooking... _kitchen and flavor experimenting_
 
-- Thing 2
+- Perfumes!... ** Very expensive hobby** 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Napping _...without naps I get very cranky_ as shown  on <https://www.floridapoly.edu>
 
 ***
 
