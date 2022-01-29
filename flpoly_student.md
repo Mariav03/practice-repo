@@ -18,12 +18,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Cooking... _kitchen and flavor experimenting_
+- Cooking... _Kitchen and flavor experimenting_
 
 - Perfumes!... **Very expensive hobby** 
 
-- Napping _...without naps I get very cranky_ as shown  on <https://www.floridapoly.edu>
+- Napping _...Without naps I get very cranky_ 
 
 ***
 
-> Last modified: 2022/01/18
+> Last modified: 2022/01/29
