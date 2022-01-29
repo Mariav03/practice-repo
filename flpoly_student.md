@@ -20,7 +20,7 @@ I am _passionate about_:
 
 - Cooking... _kitchen and flavor experimenting_
 
-- Perfumes!... ** Very expensive hobby** 
+- Perfumes!... **Very expensive hobby** 
 
 - Napping _...without naps I get very cranky_ as shown  on <https://www.floridapoly.edu>
 
