@@ -26,4 +26,6 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2022/01/29
+![SS of hw 1](hw111_SS_4hw2.png)
+
+> Last modified: 2022/02/10
