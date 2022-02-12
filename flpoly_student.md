@@ -26,6 +26,7 @@ I am _passionate about_:
 
 ***
 
-![SS of hw 1](hw111_SS_4hw2.png)
+![SS of hw 1](<img width="1440" alt="hw111_SS_4hw2" src="https://user-images.githubusercontent.com/97685008/153688271-e0c36923-787c-4807-824e-d86df3870cba.png">)
+
 
 > Last modified: 2022/02/10
